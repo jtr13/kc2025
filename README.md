@@ -19,7 +19,7 @@ Workshop schedule
 
 (or click "Help", "Cheat Sheets", "Data Visualization with ggplot2" in RStudio to download)
 
-[Required aesthetic mappings](https://edav.info/learning-ggplot2.html#required-aesthetic-mappings)
+[Required aesthetic mappings](https://edav.info/learning_ggplot2.html#required-aesthetic-mappings)
 
 [Colors in R](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
 
