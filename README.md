@@ -13,6 +13,8 @@ Workshop schedule
 
 # Resources
 
+[ggformat](https://www.github.com/jtr13/ggformat)
+
 [ggplot2 cheatsheet](https://rstudio.github.io/cheatsheets/data-visualization.pdf)
 
 (or click "Help", "Cheat Sheets", "Data Visualization with ggplot2" in RStudio to download)
