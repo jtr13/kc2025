@@ -6,7 +6,7 @@ Kansas City, September 19, 2025
 
 # Schedule
 
-Workshop schedule
+Workshop schedule (revised)
 
 ![](workshop_schedule.png)
 
