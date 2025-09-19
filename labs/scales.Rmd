@@ -1,8 +1,6 @@
 ---
 title: "Scales"
-output: 
-  html_document:
-    self_contained: false
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
