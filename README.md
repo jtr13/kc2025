@@ -2,6 +2,8 @@
 
 *Instructor: Joyce Robbins, Columbia University*
 
+Kansas City, September 19, 2025
+
 # Schedule
 
 Workshop schedule
