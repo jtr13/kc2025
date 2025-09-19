@@ -4,8 +4,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, error = TRUE,
-                      dev = "svg")
+knitr::opts_chunk$set(echo = TRUE, error = TRUE)
 ```
 
 ## Problematic y-axis
